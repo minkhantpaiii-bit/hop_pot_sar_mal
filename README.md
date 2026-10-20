@@ -1,5 +1,9 @@
 # 🔥 HotPot — A Night of Steam & Stories
 
+🌍 **Live: https://minkhantpaiii-bit.github.io/hop_pot_sar_mal/**
+
+Hosted on GitHub Pages (repo: `minkhantpaiii-bit/hop_pot_sar_mal`, branch `main`, root).
+
 A single-page story website built from all 70 media files of the Telegram night
 (64 photos + 6 reels, 08 Oct 2026 · 23:21 – 23:25).
 
